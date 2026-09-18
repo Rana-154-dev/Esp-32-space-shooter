@@ -22,7 +22,7 @@
  * YouTube:
  * https://youtu.be/Q0ecRh4ckHo?si=Latqo1PBueYFOt3F
  *
- * Author: Rana
+ * Author: Rana (SpritualEngineering)
  */
 
 #include <Arduino.h>
