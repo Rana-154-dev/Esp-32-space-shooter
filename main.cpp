@@ -1,3 +1,30 @@
+/*
+ * ESP32 Space Shooter
+ * -------------------
+ * A complete space shooter game built for ESP32
+ * with a 128x64 OLED display.
+ *
+ * Features:
+ * - 3 levels
+ * - 3 bosses
+ * - 3 power-ups
+ * - Multiple enemy types
+ * - Custom audio system
+ * - Joystick controls
+ *
+ * Hardware:
+ * - ESP32
+ * - 128x64 SSD1306 OLED
+ * - PS2 joystick
+ * - Speaker
+ * - Push button
+ *
+ * YouTube:
+ * [YOUR VIDEO LINK]
+ *
+ * Author: Rana
+ */
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
