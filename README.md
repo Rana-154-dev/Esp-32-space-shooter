@@ -1,6 +1,8 @@
 Note : 
 
 The main.cpp is the actual code of this project I personally wrote all the code in a single file so that beginners and someone who is not into technology can copy and paste it.
+
+The platform.ini is the code that can be used to set up the development environment for the esp32 board. 
 Intro Image and circuit diagrams are in the Images folder check that out of you need any help .
 you can also check my video on this project on the YouTube for better understanding .
 
